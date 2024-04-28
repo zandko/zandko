@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zan</h1>
 
-<p>I am a full-stack developer specializing in front-end technologies and software architecture, dedicated to creating innovative technical solutions. I actively contribute to open-source projects and enjoy disseminating my expertise through technical blogging.</p>
+I am a **full-stack developer** specializing in **front-end technologies** and **software architecture**, dedicated to creating **innovative technical solutions**. I actively contribute to **open-source projects** and enjoy disseminating my expertise through **technical blogging**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zandko&label=Profile%20views&color=0e75b6&style=flat" alt="zandko" /> </p>
 
