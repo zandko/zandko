@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zandko&label=Profile%20views&color=0e75b6&style=flat" alt="zandko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zandko" alt="zandko" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zandko" alt="zandko" /></p>
 
 - 📝 I regularly write articles on [https://juejin.cn/user/2893570303354238](https://juejin.cn/user/2893570303354238)
 
