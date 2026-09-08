@@ -4,7 +4,7 @@ I am a **full-stack developer** specializing in **front-end technologies** and *
 
 <p align="left"> <img src="https://p9-passport.byteacctimg.com/img/user-avatar/81a0972c9db17249496faf36f05cfe05~180x180.awebp" alt="zandko" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zandko" alt="zandko" /></p>
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zandko" alt="zandko" /></p> -->
 
 - 📝 I regularly write articles on [https://juejin.cn/user/2893570303354238](https://juejin.cn/user/2893570303354238)
 
